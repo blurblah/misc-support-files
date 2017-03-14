@@ -1,11 +1,11 @@
 {
  "environment": "sandbox",
  "current-version" : {
-   "version": "2.6.1",
-   "date-verified": "20170301102343"
+   "version": "2.6.2",
+   "date-verified": "20170305102343"
    },
  "previous-version" : {
-   "version": "2.5.0",
-   "date-verified": "20160316122851"
+   "version": "2.6.1",
+   "date-verified": "20170301102343"
    }
 }
